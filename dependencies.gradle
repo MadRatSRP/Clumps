@@ -1,7 +1,7 @@
 // Add your dependencies here
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2855'
+    minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2859'
 
     // you may put jars on which you depend on in ./libs
     // or you may define them like so..
